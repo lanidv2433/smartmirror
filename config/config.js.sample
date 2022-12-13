@@ -105,6 +105,18 @@ let config = {
 				broadcastNewsUpdates: true
 			}
 		},
+		{
+    module: "MMM-NowPlayingOnSpotify",
+    position: "bottom_left",
+
+    config: {
+        showCoverArt: true,
+        clientID: "<YOUR_CLIENT_ID>",
+        clientSecret: "<YOUR_CLIENT_SECRET>",
+        accessToken: "<YOUR_ACCESS_TOKEN>",
+        refreshToken: "<YOUR_REFRESH_TOKEN>"
+    }
+}
 	]
 };
 
