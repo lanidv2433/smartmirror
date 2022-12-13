@@ -1,7 +1,7 @@
 ![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
 
 
-Uses the Magic Mirror and the MMM-NowPlayingOnSpotify open source modular to create a smart mirror application and features the Spotify and OpenWeather API.
+My customization of the Magic Mirror and the MMM-NowPlayingOnSpotify open source modular to create a smart mirror application; features the Spotify and OpenWeather API.
 
 <p style="text-align: center">
   <a href="https://choosealicense.com/licenses/mit">
